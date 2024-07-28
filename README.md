@@ -4,8 +4,8 @@ Author: RAJESH KARMAKAR
 <br>
 Super Store Sales Dashboard Using Advanced Power BI
 <br>
-🔆 Incorporated Data Analysis Techniques, specializing in 🕔 time-series analysis, to deliver valuable insights, accurate sales forecast and interactive dashboard creation, driving business success.
-Tasks Performed 
+🔆 Incorporated Data Analysis Techniques, specializing in 🕔 time-series analysis, to deliver valuable insights, accurate sales forecast and interactive dashboard creation, driving business success.<br>
+Tasks Performed :- 
 <br>
  1. Project Overview<br>
  2. Project Objective<br>
